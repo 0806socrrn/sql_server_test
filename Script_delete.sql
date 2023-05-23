@@ -1,0 +1,1 @@
+delete MOVIMIENTOPEDIDO where registro=('113055', '113013', '113034')
